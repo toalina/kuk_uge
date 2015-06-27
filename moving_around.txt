@@ -1,0 +1,119 @@
+history | less
+# cleared list
+clear
+history fish
+history | fish
+history
+# Checking for git configuraion user name and email address
+git config --global user.email
+git config --global user.name
+git config user.email
+git config user.name
+git --version
+git config help
+git help
+# Configuring git with my name
+git config --global user.name 'Kuk-rim Choe'
+git config --global user.name 'choeku86'
+brew doctor
+brew doctor 
+brew 
+# Removed directories causing confliction with git installation
+rm -r /usr/local/lib/libswresample.1.dylib 
+rm -r /usr/local/lib/libavutil.54.dylib 
+rm -r /usr/local/lib/libavutil
+rm -r /usr/local/lib/libavformat.56.dylib
+rm -r /usr/local/lib/libavcodec.56.dylib 
+rm /usr/loca/lib/libavcodec.56.dylib
+git --help
+git --user
+git --name
+git --global user.name
+git config --global user.email 'choeku86@gmail.com'
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.name 'YOUR FULL NAME'
+echo $PATH
+subl /etc/paths
+echo $EDITOR 
+echo $E
+subl ~/.config/fish/config.fish
+cd
+# Conflict while linking sublime and fish resolved (/usr)
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl usr/local/bin/subl
+ls
+cd Applications/
+cd /
+cd ?
+ln
+cd bin
+cd local
+cd /usr
+cd usr
+cd usr/local/bin
+cd KCMBPII/
+cd ../
+cd ...
+help
+mk /subl
+ls -rt /
+ls ~
+cd /Users
+pwd
+cd Desktop/
+cd 
+cd ../workspace/
+cd Microsoft\ User\ Data/
+cd Documents/
+cd ../..
+cd /Microsoft
+cd Microsoft
+ls -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /kuk-rimchoe/local/bin/subl
+ls -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+ls -l
+ls -
+git config --global user.name Kuk-rim Choe
+brew install git
+ls -b
+ls -a
+man ls
+1
+man
+subl ~/.config/fish/configh.fish
+git config --global.user.name
+Kuk-rim Choe
+brew info fish
+brew in
+fish_update_completions 
+fish update_completions
+curl -fsSL http://git.io/beJs | ruby
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+which fish
+brew link --overwrite fish
+sudo chown -R $USER /usr/local
+sudo chown -R $USER /usr/local/etc
+chown -R $USER /usr/local/etc
+chown -R /usr/local/etc
+brew install fish
+echo hello
+brew link fish
+brew update
+chown /usr/local/etc
+ech '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew help
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+ls -G
+uname
+ls -t
+ls -l moving_around.txt 
+ls moving_around.txt
+ls -l
+# list 
+ls-t
+ls -
+clear
+ls -s
+ls
+history > moving_around.txt
